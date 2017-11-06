@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CatRecCenter</string>
+
+    <string name="major_intro">MAJOR: %1$s</string>
+    <string name="graduate_time_intro">SPECIALITY: %1$s</string>
+    <string name="company_intro">GENDER: %1$s</string>
+    <string name="position_intro">GRADE: %1$s</string>
+    <string name="bio_intro">MOTTO: %1$s</string>
+    
+    <string name="intro_header">Introduction</string>
+    <string name="intro_body">For the U of A student, retiree, alumni, or faculty/staff looking to stay fit, participate in sports, and have fun hiking, dancing and more. The Department of Campus Recreation offers programs, facilities, and services designed with you in mind.
+</string>
+    
+    <string name="follow_us">Follow Us On Social Media</string>
+    <string name="rush_intro">What is Rush?</string>
+    <string name="rush_explained">Rush is a requirement!</string>
+    <string name="rush_event">Rush Event</string>
+</resources>

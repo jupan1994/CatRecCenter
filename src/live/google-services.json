@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "208999153338",
+    "firebase_url": "https://catcareer-172117.firebaseio.com",
+    "project_id": "catcareer-172117",
+    "storage_bucket": "catcareer-172117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208999153338:android:579471fcf8cbd733",
+        "android_client_info": {
+          "package_name": "com.pjokk.jupan.catscareer.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208999153338-ral92tkm9omsbo1gu5dqtetde1kvdc3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pjokk.jupan.catscareer.live",
+            "certificate_hash": "1b2fa88443235752c330fbedd611e530a998ad22"
+          }
+        },
+        {
+          "client_id": "208999153338-vo7g23fevta02qie7uvpdvm45dq26kh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-l2oWeaCEDV86XV7rMhAxS5NV9uGyYXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208999153338-vo7g23fevta02qie7uvpdvm45dq26kh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

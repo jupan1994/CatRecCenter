@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#44000000"
+    >
+
+    <RelativeLayout
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        >
+
+        <ImageView
+            android:id="@+id/fragment_cat_detail_catPicture"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+        <ProgressBar
+            android:id="@+id/fragment_cat_detail_progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/fragment_cat_detail_catName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NAME"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <TextView
+        android:id="@+id/fragment_cat_detail_catCompany"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GENDER"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/fragment_cat_detail_catPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GRADE"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/fragment_cat_detail_catMajor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MAJOR"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/fragment_cat_detail_graduateTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SPECIALITY"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/fragment_cat_detail_catBio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MOTTO"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+
+
+</LinearLayout>
