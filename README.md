@@ -12,7 +12,7 @@ This is an application that introduces you what we have in University of Ariozna
 
 ### Shoot a glance first ...
 ---
-<img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/1.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/2.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/3.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/4.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/5.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/6.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/7.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/app/ui/8.png" width="270">
+<img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/1.png" width="270"> <img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/2.png" width="270"> <img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/3.png" width="270"> <img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/4.png" width="270"> <img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/5.png" width="270"> <img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/5.png" width="270"> <img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/7.png" width="270"> <img src="https://github.com/jupan1994/CatRecCenter/blob/master/ui/8.png" width="270">
 
 ### In detail ...
 ---
